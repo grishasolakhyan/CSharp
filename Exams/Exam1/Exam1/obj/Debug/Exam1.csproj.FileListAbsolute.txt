@@ -19,3 +19,10 @@ D:\Code\C#\Exam1\Exam1\obj\Debug\Exam1.csprojAssemblyReference.cache
 D:\Code\C#\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
 D:\Code\C#\Exam1\Exam1\obj\Debug\Exam1.exe
 D:\Code\C#\Exam1\Exam1\obj\Debug\Exam1.pdb
+D:\Code\CSharp\Exams\Exam1\Exam1\bin\Debug\Exam1.exe.config
+D:\Code\CSharp\Exams\Exam1\Exam1\bin\Debug\Exam1.exe
+D:\Code\CSharp\Exams\Exam1\Exam1\bin\Debug\Exam1.pdb
+D:\Code\CSharp\Exams\Exam1\Exam1\obj\Debug\Exam1.csprojAssemblyReference.cache
+D:\Code\CSharp\Exams\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Exams\Exam1\Exam1\obj\Debug\Exam1.exe
+D:\Code\CSharp\Exams\Exam1\Exam1\obj\Debug\Exam1.pdb

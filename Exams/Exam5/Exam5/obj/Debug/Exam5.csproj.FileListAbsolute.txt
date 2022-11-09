@@ -1,0 +1,14 @@
+G:\Exam5\Exam5\bin\Debug\Exam5.exe.config
+G:\Exam5\Exam5\bin\Debug\Exam5.exe
+G:\Exam5\Exam5\bin\Debug\Exam5.pdb
+G:\Exam5\Exam5\obj\Debug\Exam5.csprojAssemblyReference.cache
+G:\Exam5\Exam5\obj\Debug\Exam5.csproj.CoreCompileInputs.cache
+G:\Exam5\Exam5\obj\Debug\Exam5.exe
+G:\Exam5\Exam5\obj\Debug\Exam5.pdb
+D:\Code\CSharp\Exams\Exam5\Exam5\bin\Debug\Exam5.exe.config
+D:\Code\CSharp\Exams\Exam5\Exam5\bin\Debug\Exam5.exe
+D:\Code\CSharp\Exams\Exam5\Exam5\bin\Debug\Exam5.pdb
+D:\Code\CSharp\Exams\Exam5\Exam5\obj\Debug\Exam5.csprojAssemblyReference.cache
+D:\Code\CSharp\Exams\Exam5\Exam5\obj\Debug\Exam5.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Exams\Exam5\Exam5\obj\Debug\Exam5.exe
+D:\Code\CSharp\Exams\Exam5\Exam5\obj\Debug\Exam5.pdb

@@ -1,0 +1,14 @@
+G:\Exam4\Exam4\bin\Debug\Exam4.exe.config
+G:\Exam4\Exam4\bin\Debug\Exam4.exe
+G:\Exam4\Exam4\bin\Debug\Exam4.pdb
+G:\Exam4\Exam4\obj\Debug\Exam4.csprojAssemblyReference.cache
+G:\Exam4\Exam4\obj\Debug\Exam4.csproj.CoreCompileInputs.cache
+G:\Exam4\Exam4\obj\Debug\Exam4.exe
+G:\Exam4\Exam4\obj\Debug\Exam4.pdb
+D:\Code\CSharp\Exams\Exam4\Exam4\bin\Debug\Exam4.exe.config
+D:\Code\CSharp\Exams\Exam4\Exam4\bin\Debug\Exam4.exe
+D:\Code\CSharp\Exams\Exam4\Exam4\bin\Debug\Exam4.pdb
+D:\Code\CSharp\Exams\Exam4\Exam4\obj\Debug\Exam4.csprojAssemblyReference.cache
+D:\Code\CSharp\Exams\Exam4\Exam4\obj\Debug\Exam4.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Exams\Exam4\Exam4\obj\Debug\Exam4.exe
+D:\Code\CSharp\Exams\Exam4\Exam4\obj\Debug\Exam4.pdb

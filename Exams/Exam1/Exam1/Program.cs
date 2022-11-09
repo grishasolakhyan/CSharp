@@ -10,12 +10,12 @@ namespace Exam1
     {
         static void Main(string[] args)
         {
-            Console.Write("Введите площадь поверхности куба: ");
+            Console.Write("Enter the surface area of the cube: ");
             int pov = Convert.ToInt32(Console.ReadLine());
             double square=pov/6;
-            Console.WriteLine("Площадь грани равна: " + square);
+            Console.WriteLine("The area of the face is: " + square);
             double reb = Math.Sqrt(square);
-            Console.WriteLine("Длина ребра куба равна " + reb);
+            Console.WriteLine("The edge length of the cube is " + reb);
             Console.ReadLine();
         }
     }
