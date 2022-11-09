@@ -1,0 +1,21 @@
+G:\Exam1\Exam1\bin\Debug\Exam1.exe.config
+G:\Exam1\Exam1\bin\Debug\Exam1.exe
+G:\Exam1\Exam1\bin\Debug\Exam1.pdb
+G:\Exam1\Exam1\obj\Debug\Exam1.csprojAssemblyReference.cache
+G:\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+G:\Exam1\Exam1\obj\Debug\Exam1.exe
+G:\Exam1\Exam1\obj\Debug\Exam1.pdb
+D:\Личные документы\Универ\2 КУРС\Должиков\Exam1\Exam1\bin\Debug\Exam1.exe.config
+D:\Личные документы\Универ\2 КУРС\Должиков\Exam1\Exam1\bin\Debug\Exam1.exe
+D:\Личные документы\Универ\2 КУРС\Должиков\Exam1\Exam1\bin\Debug\Exam1.pdb
+D:\Личные документы\Универ\2 КУРС\Должиков\Exam1\Exam1\obj\Debug\Exam1.csprojAssemblyReference.cache
+D:\Личные документы\Универ\2 КУРС\Должиков\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+D:\Личные документы\Универ\2 КУРС\Должиков\Exam1\Exam1\obj\Debug\Exam1.exe
+D:\Личные документы\Универ\2 КУРС\Должиков\Exam1\Exam1\obj\Debug\Exam1.pdb
+D:\Code\C#\Exam1\Exam1\bin\Debug\Exam1.exe.config
+D:\Code\C#\Exam1\Exam1\bin\Debug\Exam1.exe
+D:\Code\C#\Exam1\Exam1\bin\Debug\Exam1.pdb
+D:\Code\C#\Exam1\Exam1\obj\Debug\Exam1.csprojAssemblyReference.cache
+D:\Code\C#\Exam1\Exam1\obj\Debug\Exam1.csproj.CoreCompileInputs.cache
+D:\Code\C#\Exam1\Exam1\obj\Debug\Exam1.exe
+D:\Code\C#\Exam1\Exam1\obj\Debug\Exam1.pdb
