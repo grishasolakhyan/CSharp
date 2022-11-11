@@ -1,0 +1,13 @@
+G:\Exam9\Exam9\bin\Debug\Exam9.exe.config
+G:\Exam9\Exam9\bin\Debug\Exam9.exe
+G:\Exam9\Exam9\bin\Debug\Exam9.pdb
+G:\Exam9\Exam9\obj\Debug\Exam9.csproj.CoreCompileInputs.cache
+G:\Exam9\Exam9\obj\Debug\Exam9.exe
+G:\Exam9\Exam9\obj\Debug\Exam9.pdb
+D:\Code\CSharp\Exams\Exam9\Exam9\bin\Debug\Exam9.exe.config
+D:\Code\CSharp\Exams\Exam9\Exam9\bin\Debug\Exam9.exe
+D:\Code\CSharp\Exams\Exam9\Exam9\bin\Debug\Exam9.pdb
+D:\Code\CSharp\Exams\Exam9\Exam9\obj\Debug\Exam9.csprojAssemblyReference.cache
+D:\Code\CSharp\Exams\Exam9\Exam9\obj\Debug\Exam9.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Exams\Exam9\Exam9\obj\Debug\Exam9.exe
+D:\Code\CSharp\Exams\Exam9\Exam9\obj\Debug\Exam9.pdb
