@@ -1,0 +1,14 @@
+G:\Exam8\Exam8\bin\Debug\Exam8.exe.config
+G:\Exam8\Exam8\bin\Debug\Exam8.exe
+G:\Exam8\Exam8\bin\Debug\Exam8.pdb
+G:\Exam8\Exam8\obj\Debug\Exam8.csprojAssemblyReference.cache
+G:\Exam8\Exam8\obj\Debug\Exam8.csproj.CoreCompileInputs.cache
+G:\Exam8\Exam8\obj\Debug\Exam8.exe
+G:\Exam8\Exam8\obj\Debug\Exam8.pdb
+D:\Code\CSharp\Exams\Exam8\Exam8\bin\Debug\Exam8.exe.config
+D:\Code\CSharp\Exams\Exam8\Exam8\bin\Debug\Exam8.exe
+D:\Code\CSharp\Exams\Exam8\Exam8\bin\Debug\Exam8.pdb
+D:\Code\CSharp\Exams\Exam8\Exam8\obj\Debug\Exam8.csprojAssemblyReference.cache
+D:\Code\CSharp\Exams\Exam8\Exam8\obj\Debug\Exam8.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Exams\Exam8\Exam8\obj\Debug\Exam8.exe
+D:\Code\CSharp\Exams\Exam8\Exam8\obj\Debug\Exam8.pdb
