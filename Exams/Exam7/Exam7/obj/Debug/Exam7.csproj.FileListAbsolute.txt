@@ -1,0 +1,14 @@
+G:\Exam7\Exam7\bin\Debug\Exam7.exe.config
+G:\Exam7\Exam7\bin\Debug\Exam7.exe
+G:\Exam7\Exam7\bin\Debug\Exam7.pdb
+G:\Exam7\Exam7\obj\Debug\Exam7.csprojAssemblyReference.cache
+G:\Exam7\Exam7\obj\Debug\Exam7.csproj.CoreCompileInputs.cache
+G:\Exam7\Exam7\obj\Debug\Exam7.exe
+G:\Exam7\Exam7\obj\Debug\Exam7.pdb
+D:\Code\CSharp\Exams\Exam7\Exam7\bin\Debug\Exam7.exe.config
+D:\Code\CSharp\Exams\Exam7\Exam7\bin\Debug\Exam7.exe
+D:\Code\CSharp\Exams\Exam7\Exam7\bin\Debug\Exam7.pdb
+D:\Code\CSharp\Exams\Exam7\Exam7\obj\Debug\Exam7.csprojAssemblyReference.cache
+D:\Code\CSharp\Exams\Exam7\Exam7\obj\Debug\Exam7.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Exams\Exam7\Exam7\obj\Debug\Exam7.exe
+D:\Code\CSharp\Exams\Exam7\Exam7\obj\Debug\Exam7.pdb
