@@ -1,0 +1,14 @@
+G:\Exam13\Exam13\bin\Debug\Exam13.exe.config
+G:\Exam13\Exam13\bin\Debug\Exam13.exe
+G:\Exam13\Exam13\bin\Debug\Exam13.pdb
+G:\Exam13\Exam13\obj\Debug\Exam13.csprojAssemblyReference.cache
+G:\Exam13\Exam13\obj\Debug\Exam13.csproj.CoreCompileInputs.cache
+G:\Exam13\Exam13\obj\Debug\Exam13.exe
+G:\Exam13\Exam13\obj\Debug\Exam13.pdb
+D:\Code\CSharp\Exams\Exam13\Exam13\bin\Debug\Exam13.exe.config
+D:\Code\CSharp\Exams\Exam13\Exam13\bin\Debug\Exam13.exe
+D:\Code\CSharp\Exams\Exam13\Exam13\bin\Debug\Exam13.pdb
+D:\Code\CSharp\Exams\Exam13\Exam13\obj\Debug\Exam13.csprojAssemblyReference.cache
+D:\Code\CSharp\Exams\Exam13\Exam13\obj\Debug\Exam13.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Exams\Exam13\Exam13\obj\Debug\Exam13.exe
+D:\Code\CSharp\Exams\Exam13\Exam13\obj\Debug\Exam13.pdb
