@@ -1,0 +1,14 @@
+E:\Exam15.2\Exam15.2\bin\Debug\Exam15.2.exe.config
+E:\Exam15.2\Exam15.2\bin\Debug\Exam15.2.exe
+E:\Exam15.2\Exam15.2\bin\Debug\Exam15.2.pdb
+E:\Exam15.2\Exam15.2\obj\Debug\Exam15.2.csprojAssemblyReference.cache
+E:\Exam15.2\Exam15.2\obj\Debug\Exam15.2.csproj.CoreCompileInputs.cache
+E:\Exam15.2\Exam15.2\obj\Debug\Exam15.2.exe
+E:\Exam15.2\Exam15.2\obj\Debug\Exam15.2.pdb
+D:\Code\CSharp\Exams\Exam15.2\Exam15.2\bin\Debug\Exam15.2.exe.config
+D:\Code\CSharp\Exams\Exam15.2\Exam15.2\bin\Debug\Exam15.2.exe
+D:\Code\CSharp\Exams\Exam15.2\Exam15.2\bin\Debug\Exam15.2.pdb
+D:\Code\CSharp\Exams\Exam15.2\Exam15.2\obj\Debug\Exam15.2.csprojAssemblyReference.cache
+D:\Code\CSharp\Exams\Exam15.2\Exam15.2\obj\Debug\Exam15.2.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Exams\Exam15.2\Exam15.2\obj\Debug\Exam15.2.exe
+D:\Code\CSharp\Exams\Exam15.2\Exam15.2\obj\Debug\Exam15.2.pdb
