@@ -14,7 +14,7 @@ namespace Exam15
     }
     class Triangle : Figure
     {
-        private readonly string name = "Треугольник";
+        private readonly string name = "Triangle";
         private readonly double a, b, c;
 
         public bool Triangle_
@@ -47,21 +47,21 @@ namespace Exam15
         public override void Info()
         {
             if (this.a + this.b <= this.c || this.a + this.c <= this.b || this.c + this.b <= this.a)
-                System.Console.Write("\nТреугольник не существет\n ");
+                System.Console.Write("\nThis reiangle does not exist!\n ");
             else if (this.a < 0 || this.b < 0 || this.c < 0)
-                System.Console.Write("\nСтороны треугольника не могут иметь отрицательные значения\n ");
+                System.Console.Write("\nThe sides of a triangle cannot be negative.\n ");
             else
             {
-                Console.WriteLine("\nНазвание фигуры :{0} ", this.name);
-                Console.WriteLine("сторона a = " + this.a + "\nсторона b = " + this.b + "\nсторона c = " + this.c);
-                Console.WriteLine("Периметр = {0}", this.Perimetr());
-                Console.WriteLine("Площадь = {0}", this.Square());
+                Console.WriteLine("\nShape name: {0} ", this.name);
+                Console.WriteLine("Side a = " + this.a + "\nSide b = " + this.b + "\nSide c = " + this.c);
+                Console.WriteLine("Perimeter = {0}", this.Perimetr());
+                Console.WriteLine("Area = {0}", this.Square());
             }
         }
     }
     class Rectangle : Figure
     {
-        private readonly string name = "Прямоугольник";
+        private readonly string name = "Rectangle";
 
         private readonly double x, y;
 
@@ -93,22 +93,22 @@ namespace Exam15
         public override void Info()
         {
             if (this.x < 0 || this.y < 0)
-                System.Console.Write("\nСтороны треугольника не могут иметь отрицательные значения\n ");
+                System.Console.Write("\nThe sides of a triangle cannot be negative\n ");
             else
             {
-                Console.WriteLine("\nНазвание фигуры :{0} ", this.name);
+                Console.WriteLine("\nShape name: {0} ", this.name);
                 if (this.x == this.y)
-                    System.Console.Write("\nЭтот прямоугольник есть квадрат\n");
-                Console.WriteLine("сторона x = " + this.x + "\nсторона y = " + this.y);
-                Console.WriteLine("Периметр = {0}", this.Perimetr());
-                Console.WriteLine("Площадь = {0}", this.Square());
+                    System.Console.Write("\nThis rectangle is SQUARE\n");
+                Console.WriteLine("Side x = " + this.x + "\nSide y = " + this.y);
+                Console.WriteLine("Perimeter = {0}", this.Perimetr());
+                Console.WriteLine("Area = {0}", this.Square());
             }
 
         }
     }
     class Circle : Figure
     {
-        private readonly string name = "Круг";
+        private readonly string name = "Circle";
 
         private readonly double r;
         public Circle(double r)
@@ -125,14 +125,14 @@ namespace Exam15
         }
         public override void Info()
         {
-            if (r < 0) System.Console.Write("\nРадиус круга не может иметь отрицательные значения\n ");
+            if (r < 0) System.Console.Write("\nCircle radius cannot be negative\n ");
             else
             {
 
-                Console.WriteLine("\nНазвание фигуры:{0}", this.name);
-                Console.WriteLine("радиус r = " + this.r);
-                Console.WriteLine("Периметр = {0}", this.Perimetr());
-                Console.WriteLine("Площадь = {0}", this.Square());
+                Console.WriteLine("\nShape name: {0}", this.name);
+                Console.WriteLine("Radius r = " + this.r);
+                Console.WriteLine("Perimeter = {0}", this.Perimetr());
+                Console.WriteLine("Area = {0}", this.Square());
             }
 
         }
@@ -141,47 +141,53 @@ namespace Exam15
     {
         static void Main(string[] args)
         {
-            char num;
-            Console.WriteLine("ВЫБЕРЕТЕ ЗАДАЧУ:" +
-                         "\n1)ТРЕУГОЛЬНИК" +
-                         "\n2)ПРЯМОУГОЛЬНИК" +
-                         "\n3)КРУГ");
-            Console.WriteLine("\nВВЕДИТЕ НОМЕР ЗАДАЧИ");
-            num = (char)Console.Read();
-            if (num == '1')
+            while (true)
             {
-                Console.WriteLine("Введите 1 сторону треугольника ");
-                double a = Convert.ToDouble(Console.ReadLine());
-                Console.Write("Введите 2 сторону треугольника ");
-                double b = Convert.ToDouble(Console.ReadLine());
-                Console.Write("Введите 3 сторону треугольника ");
-                double c = Convert.ToDouble(Console.ReadLine());
-                Figure f1 = new Triangle(a, b, c);
-                f1.Square();
-                f1.Perimetr();
-                f1.Info();
-            }
-
-            else if (num == '2')
-            {
-                Console.Write("\nВведите 1 сторону прямоугольника ");
-                double x = Convert.ToDouble(Console.ReadLine());
-                Console.Write("Введите 2 сторону прямоугольника ");
-                double y = Convert.ToDouble(Console.ReadLine());
-                Figure f2 = new Rectangle(x, y);
-                f2.Square();
-                f2.Perimetr();
-                f2.Info();
-            }
-
-            else if (num == '3')
-            {
-                Console.Write("\nВведите радиус окружности ");
-                double r = Convert.ToDouble(Console.ReadLine());
-                Figure f3 = new Circle(r);
-                f3.Square();
-                f3.Perimetr();
-                f3.Info();
+                string num;
+                Console.WriteLine("CHOOSE A TASK:" +
+                             "\n1)TRIANGLE" +
+                             "\n2)RECTANGLE" +
+                             "\n3)CIRCLE");
+                Console.Write("\nTASK:");
+                num = Console.ReadLine();
+                if (num == "1")
+                {
+                    Console.Write("Side a=");
+                    double a = Convert.ToDouble(Console.ReadLine());
+                    Console.Write("Side b=");
+                    double b = Convert.ToDouble(Console.ReadLine());
+                    Console.Write("Side c=");
+                    double c = Convert.ToDouble(Console.ReadLine());
+                    Figure f1 = new Triangle(a, b, c);
+                    f1.Square();
+                    f1.Perimetr();
+                    f1.Info();
+                }
+                else if (num == "2")
+                {
+                    Console.Write("Side a=");
+                    double x = Convert.ToDouble(Console.ReadLine());
+                    Console.Write("Side b=");
+                    double y = Convert.ToDouble(Console.ReadLine());
+                    Figure f2 = new Rectangle(x, y);
+                    f2.Square();
+                    f2.Perimetr();
+                    f2.Info();
+                }
+                else if (num == "3")
+                {
+                    Console.Write("Radius=");
+                    double r = Convert.ToDouble(Console.ReadLine());
+                    Figure f3 = new Circle(r);
+                    f3.Square();
+                    f3.Perimetr();
+                    f3.Info();
+                }
+                else
+                {
+                    Console.WriteLine("WRONG COMMAND!");
+                }
+                Console.WriteLine("________________________________"+"\n");
             }
             Console.ReadLine();
         }
