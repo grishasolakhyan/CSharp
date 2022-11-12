@@ -1,0 +1,14 @@
+E:\Задача-6\Задача-6\bin\Debug\Задача-6.exe.config
+E:\Задача-6\Задача-6\bin\Debug\Задача-6.exe
+E:\Задача-6\Задача-6\bin\Debug\Задача-6.pdb
+E:\Задача-6\Задача-6\obj\Debug\Задача-6.csprojAssemblyReference.cache
+E:\Задача-6\Задача-6\obj\Debug\Задача-6.csproj.CoreCompileInputs.cache
+E:\Задача-6\Задача-6\obj\Debug\Задача-6.exe
+E:\Задача-6\Задача-6\obj\Debug\Задача-6.pdb
+G:\Задача-6\Задача-6\bin\Debug\Задача-6.exe.config
+G:\Задача-6\Задача-6\bin\Debug\Задача-6.exe
+G:\Задача-6\Задача-6\bin\Debug\Задача-6.pdb
+G:\Задача-6\Задача-6\obj\Debug\Задача-6.csprojAssemblyReference.cache
+G:\Задача-6\Задача-6\obj\Debug\Задача-6.csproj.CoreCompileInputs.cache
+G:\Задача-6\Задача-6\obj\Debug\Задача-6.exe
+G:\Задача-6\Задача-6\obj\Debug\Задача-6.pdb

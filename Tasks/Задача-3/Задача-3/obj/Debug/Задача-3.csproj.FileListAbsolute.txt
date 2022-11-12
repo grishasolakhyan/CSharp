@@ -1,0 +1,21 @@
+C:\Личные документы\Dev проги\Задача-3\Задача-3\obj\Debug\Задача-3.csprojAssemblyReference.cache
+C:\Личные документы\Dev проги\Задача-3\Задача-3\obj\Debug\Задача-3.csproj.CoreCompileInputs.cache
+C:\Личные документы\Dev проги\Задача-3\Задача-3\bin\Debug\Задача-3.exe.config
+C:\Личные документы\Dev проги\Задача-3\Задача-3\bin\Debug\Задача-3.exe
+C:\Личные документы\Dev проги\Задача-3\Задача-3\bin\Debug\Задача-3.pdb
+C:\Личные документы\Dev проги\Задача-3\Задача-3\obj\Debug\Задача-3.exe
+C:\Личные документы\Dev проги\Задача-3\Задача-3\obj\Debug\Задача-3.pdb
+G:\Задача-3\Задача-3\bin\Debug\Задача-3.exe.config
+G:\Задача-3\Задача-3\bin\Debug\Задача-3.exe
+G:\Задача-3\Задача-3\bin\Debug\Задача-3.pdb
+G:\Задача-3\Задача-3\obj\Debug\Задача-3.csprojAssemblyReference.cache
+G:\Задача-3\Задача-3\obj\Debug\Задача-3.csproj.CoreCompileInputs.cache
+G:\Задача-3\Задача-3\obj\Debug\Задача-3.exe
+G:\Задача-3\Задача-3\obj\Debug\Задача-3.pdb
+E:\Задача-3\Задача-3\bin\Debug\Задача-3.exe.config
+E:\Задача-3\Задача-3\bin\Debug\Задача-3.exe
+E:\Задача-3\Задача-3\bin\Debug\Задача-3.pdb
+E:\Задача-3\Задача-3\obj\Debug\Задача-3.csprojAssemblyReference.cache
+E:\Задача-3\Задача-3\obj\Debug\Задача-3.csproj.CoreCompileInputs.cache
+E:\Задача-3\Задача-3\obj\Debug\Задача-3.exe
+E:\Задача-3\Задача-3\obj\Debug\Задача-3.pdb

@@ -1,0 +1,7 @@
+E:\Задача-8\Задача-8\bin\Debug\Задача-8.exe.config
+E:\Задача-8\Задача-8\bin\Debug\Задача-8.exe
+E:\Задача-8\Задача-8\bin\Debug\Задача-8.pdb
+E:\Задача-8\Задача-8\obj\Debug\Задача-8.csprojAssemblyReference.cache
+E:\Задача-8\Задача-8\obj\Debug\Задача-8.csproj.CoreCompileInputs.cache
+E:\Задача-8\Задача-8\obj\Debug\Задача-8.exe
+E:\Задача-8\Задача-8\obj\Debug\Задача-8.pdb

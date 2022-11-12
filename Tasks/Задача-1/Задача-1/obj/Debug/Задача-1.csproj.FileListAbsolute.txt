@@ -1,0 +1,29 @@
+C:\Личные документы\Dev проги\Задача-1\Задача-1\bin\Debug\Задача-1.exe.config
+C:\Личные документы\Dev проги\Задача-1\Задача-1\bin\Debug\Задача-1.exe
+C:\Личные документы\Dev проги\Задача-1\Задача-1\bin\Debug\Задача-1.pdb
+C:\Личные документы\Dev проги\Задача-1\Задача-1\obj\Debug\Задача-1.csproj.CoreCompileInputs.cache
+C:\Личные документы\Dev проги\Задача-1\Задача-1\obj\Debug\Задача-1.exe
+C:\Личные документы\Dev проги\Задача-1\Задача-1\obj\Debug\Задача-1.pdb
+G:\Задача-1\Задача-1\bin\Debug\Задача-1.exe.config
+G:\Задача-1\Задача-1\bin\Debug\Задача-1.exe
+G:\Задача-1\Задача-1\bin\Debug\Задача-1.pdb
+G:\Задача-1\Задача-1\obj\Debug\Задача-1.csprojAssemblyReference.cache
+G:\Задача-1\Задача-1\obj\Debug\Задача-1.csproj.CoreCompileInputs.cache
+G:\Задача-1\Задача-1\obj\Debug\Задача-1.exe
+G:\Задача-1\Задача-1\obj\Debug\Задача-1.pdb
+H:\флешка 2019\Задача-1\Задача-1\obj\Debug\Задача-1.exe
+H:\флешка 2019\Задача-1\Задача-1\obj\Debug\Задача-1.pdb
+D:\Личные документы\Универ\2 КУРС\Должиков\Задача-1\Задача-1\bin\Debug\Задача-1.exe.config
+D:\Личные документы\Универ\2 КУРС\Должиков\Задача-1\Задача-1\bin\Debug\Задача-1.exe
+D:\Личные документы\Универ\2 КУРС\Должиков\Задача-1\Задача-1\bin\Debug\Задача-1.pdb
+D:\Личные документы\Универ\2 КУРС\Должиков\Задача-1\Задача-1\obj\Debug\Задача-1.csprojAssemblyReference.cache
+D:\Личные документы\Универ\2 КУРС\Должиков\Задача-1\Задача-1\obj\Debug\Задача-1.csproj.CoreCompileInputs.cache
+D:\Личные документы\Универ\2 КУРС\Должиков\Задача-1\Задача-1\obj\Debug\Задача-1.exe
+D:\Личные документы\Универ\2 КУРС\Должиков\Задача-1\Задача-1\obj\Debug\Задача-1.pdb
+D:\Code\CSharp\Tasks\Задача-1\Задача-1\bin\Debug\Задача-1.exe.config
+D:\Code\CSharp\Tasks\Задача-1\Задача-1\bin\Debug\Задача-1.exe
+D:\Code\CSharp\Tasks\Задача-1\Задача-1\bin\Debug\Задача-1.pdb
+D:\Code\CSharp\Tasks\Задача-1\Задача-1\obj\Debug\Задача-1.csprojAssemblyReference.cache
+D:\Code\CSharp\Tasks\Задача-1\Задача-1\obj\Debug\Задача-1.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Tasks\Задача-1\Задача-1\obj\Debug\Задача-1.exe
+D:\Code\CSharp\Tasks\Задача-1\Задача-1\obj\Debug\Задача-1.pdb
