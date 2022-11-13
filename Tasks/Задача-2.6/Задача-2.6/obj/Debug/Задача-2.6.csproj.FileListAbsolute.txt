@@ -25,3 +25,6 @@ D:\Code\CSharp\Tasks\Задача-2.6\Задача-2.6\obj\Debug\Задача-2.
 D:\Code\CSharp\Tasks\Задача-2.6\Задача-2.6\obj\Debug\Задача-2.6.csproj.CoreCompileInputs.cache
 D:\Code\CSharp\Tasks\Задача-2.6\Задача-2.6\obj\Debug\Задача-2.6.exe
 D:\Code\CSharp\Tasks\Задача-2.6\Задача-2.6\obj\Debug\Задача-2.6.pdb
+D:\Code\CSharp\Tasks\Задача-2.6\Задача-2.6\bin\Debug\Задача-2.6.exe.config
+D:\Code\CSharp\Tasks\Задача-2.6\Задача-2.6\bin\Debug\Задача-2.6.exe
+D:\Code\CSharp\Tasks\Задача-2.6\Задача-2.6\bin\Debug\Задача-2.6.pdb

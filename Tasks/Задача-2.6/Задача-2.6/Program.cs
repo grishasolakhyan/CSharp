@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Задача_2._6
+namespace calculator
 {
     static class Program
     {     
