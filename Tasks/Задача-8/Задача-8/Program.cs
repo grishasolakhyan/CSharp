@@ -57,6 +57,7 @@ class truck_demo
         Console.WriteLine("РАСХОД: НА " +dist+" КИЛОМЕТРОВ ТРЕБУЕТСЯ "+li+" ЛИТРОВ.\n");
         Console.WriteLine("ГРУЗОПОДЪЁМНОСТЬ ПИКАПА СОСТАВЛЯЕТ " + pickup.capacity + " КГ. КОЛЛИЧЕСТВО ЧЕЛОВЕК: " + pickup.passengers);
         Console.WriteLine("РАСХОД: НА " + dist + " КИЛОМЕТРОВ ТРЕБУЕТСЯ " + li + " ЛИТРОВ.\n");
+        Console.ReadLine();
     }
 }
 

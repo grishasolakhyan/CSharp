@@ -5,3 +5,10 @@ E:\Задача-8\Задача-8\obj\Debug\Задача-8.csprojAssemblyReferenc
 E:\Задача-8\Задача-8\obj\Debug\Задача-8.csproj.CoreCompileInputs.cache
 E:\Задача-8\Задача-8\obj\Debug\Задача-8.exe
 E:\Задача-8\Задача-8\obj\Debug\Задача-8.pdb
+D:\Code\CSharp\Tasks\Задача-8\Задача-8\bin\Debug\Задача-8.exe.config
+D:\Code\CSharp\Tasks\Задача-8\Задача-8\bin\Debug\Задача-8.exe
+D:\Code\CSharp\Tasks\Задача-8\Задача-8\bin\Debug\Задача-8.pdb
+D:\Code\CSharp\Tasks\Задача-8\Задача-8\obj\Debug\Задача-8.csprojAssemblyReference.cache
+D:\Code\CSharp\Tasks\Задача-8\Задача-8\obj\Debug\Задача-8.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Tasks\Задача-8\Задача-8\obj\Debug\Задача-8.exe
+D:\Code\CSharp\Tasks\Задача-8\Задача-8\obj\Debug\Задача-8.pdb

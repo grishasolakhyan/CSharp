@@ -6,13 +6,13 @@
         public bool W = true;
         public void showmenu()
             {
-            Console.WriteLine("ВЫБЕРЕТЕ ЗАДАЧУ:" +
-                          "\n1)ЧТО ТАКОЕ ОПЕРАТОР IF-ELSE?" +
-                          "\n2)ЧТО ТАКОЕ ОПЕРАТОР SWITCH?" +
-                          "\n3)ЧТО ТАКОЕ ЦИКЛ FOR?" +
-                          "\n4)ЧТО ТАКОЕ ЦИКЛ WHILE?" +
-                          "\n5)ЧТО ТАКОЕ ЦИКЛ DO WHILE?" +
-                          "\nq)ЗАКРЫТИЕ ЗАДАЧИ");
+            Console.Write(  "1)ЧТО ТАКОЕ ОПЕРАТОР IF-ELSE?" +
+                                "\n2)ЧТО ТАКОЕ ОПЕРАТОР SWITCH?" +
+                                "\n3)ЧТО ТАКОЕ ЦИКЛ FOR?" +
+                                "\n4)ЧТО ТАКОЕ ЦИКЛ WHILE?" +
+                                "\n5)ЧТО ТАКОЕ ЦИКЛ DO WHILE?" +
+                                "\nq)ЗАКРЫТИЕ ЗАДАЧИ" +
+                                "\nВЫБЕРЕТЕ ЗАДАЧУ:");
             }
             public void helpon()
             {
@@ -27,15 +27,15 @@
                     Console.ReadLine();
                     break;
                 case '3':
-                    Console.WriteLine("Цикл FOR - ");
+                    Console.WriteLine("Цикл FOR - это управляющая конструкция программного кода, которая нарушает линейность исполнения алгоритма и позволяет выполнить указанный код множество раз.");
                     Console.ReadLine();
                     break;
                 case '4':
-                    Console.WriteLine("Цикл WHILE - ");
+                    Console.WriteLine("Цикл WHILE - цикл, который выполняется, пока истинно некоторое условие, указанное перед его началом.");
                     Console.ReadLine();
                     break;
                 case '5':
-                    Console.WriteLine("Цикл DO WHILE - ");
+                    Console.WriteLine("Цикл DO WHILE - цикл, в котором условие проверяется после выполнения тела цикла.");
                     Console.ReadLine();
                     break;
                 case 'q':
