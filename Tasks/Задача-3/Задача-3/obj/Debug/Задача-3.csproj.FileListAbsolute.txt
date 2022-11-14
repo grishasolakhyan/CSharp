@@ -19,3 +19,10 @@ E:\Задача-3\Задача-3\obj\Debug\Задача-3.csprojAssemblyReferenc
 E:\Задача-3\Задача-3\obj\Debug\Задача-3.csproj.CoreCompileInputs.cache
 E:\Задача-3\Задача-3\obj\Debug\Задача-3.exe
 E:\Задача-3\Задача-3\obj\Debug\Задача-3.pdb
+D:\Code\CSharp\Tasks\Задача-3\Задача-3\bin\Debug\Задача-3.exe.config
+D:\Code\CSharp\Tasks\Задача-3\Задача-3\bin\Debug\Задача-3.exe
+D:\Code\CSharp\Tasks\Задача-3\Задача-3\bin\Debug\Задача-3.pdb
+D:\Code\CSharp\Tasks\Задача-3\Задача-3\obj\Debug\Задача-3.csprojAssemblyReference.cache
+D:\Code\CSharp\Tasks\Задача-3\Задача-3\obj\Debug\Задача-3.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Tasks\Задача-3\Задача-3\obj\Debug\Задача-3.exe
+D:\Code\CSharp\Tasks\Задача-3\Задача-3\obj\Debug\Задача-3.pdb
