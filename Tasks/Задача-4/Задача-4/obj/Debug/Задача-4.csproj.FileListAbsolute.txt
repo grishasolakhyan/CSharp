@@ -5,3 +5,10 @@ G:\Задача-4\Задача-4\obj\Debug\Задача-4.csproj.CoreCompileInpu
 G:\Задача-4\Задача-4\obj\Debug\Задача-4.exe
 G:\Задача-4\Задача-4\obj\Debug\Задача-4.pdb
 G:\Задача-4\Задача-4\obj\Debug\Задача-4.csprojAssemblyReference.cache
+D:\Code\CSharp\Tasks\Задача-4\Задача-4\bin\Debug\Задача-4.exe.config
+D:\Code\CSharp\Tasks\Задача-4\Задача-4\bin\Debug\Задача-4.exe
+D:\Code\CSharp\Tasks\Задача-4\Задача-4\bin\Debug\Задача-4.pdb
+D:\Code\CSharp\Tasks\Задача-4\Задача-4\obj\Debug\Задача-4.csprojAssemblyReference.cache
+D:\Code\CSharp\Tasks\Задача-4\Задача-4\obj\Debug\Задача-4.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\Tasks\Задача-4\Задача-4\obj\Debug\Задача-4.exe
+D:\Code\CSharp\Tasks\Задача-4\Задача-4\obj\Debug\Задача-4.pdb

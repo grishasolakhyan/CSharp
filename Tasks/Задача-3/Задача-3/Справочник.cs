@@ -22,7 +22,7 @@ namespace Задача_3
                         Console.WriteLine("\nКонструкция switch-case — это удобная замена\nдлинной if-else конструкции, которая сравнивает\nпеременную с несколькими константными\nзначениями, например int или char.");
                         break;
                     default:
-                        Console.WriteLine("\nНеверно выбран номер задачи");
+                        Console.WriteLine("\nНеверно выбран номер задачи!");
                         break;
                 }
                 Console.WriteLine("\n");
